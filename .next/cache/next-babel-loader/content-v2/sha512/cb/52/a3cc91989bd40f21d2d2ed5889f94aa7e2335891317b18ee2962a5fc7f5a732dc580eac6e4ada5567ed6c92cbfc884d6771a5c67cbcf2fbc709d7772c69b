@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { useContext, createContext } from 'react';\nexport var MenuContext = /*#__PURE__*/createContext(null);\nexport default function useMenuContext() {\n  return useContext(MenuContext);\n}","map":null,"metadata":{},"sourceType":"module"}

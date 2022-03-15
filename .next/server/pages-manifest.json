@@ -1,0 +1,15 @@
+{
+  "/404": "pages/404.html",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/components/button": "pages/components/button.html",
+  "/components/input": "pages/components/input.html",
+  "/editor/basic": "pages/editor/basic.html",
+  "/guides/component-guide": "pages/guides/component-guide.html",
+  "/guides/getting-started": "pages/guides/getting-started.html",
+  "/hooks/use-clipboard": "pages/hooks/use-clipboard.html",
+  "/hooks/use-did-mount": "pages/hooks/use-did-mount.html",
+  "/hooks/use-online": "pages/hooks/use-online.html",
+  "/": "pages/index.html",
+  "/_error": "pages/_error.js"
+}

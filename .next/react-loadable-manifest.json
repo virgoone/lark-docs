@@ -1,0 +1,11 @@
+{
+  "../layouts/index.tsx -> ./mdx": {
+    "id": "yRSK",
+    "files": [
+      "static/chunks/bfe23ff95d3cefe06e57bdab056bbec1e9ab5080.aec2e0e8183707d0845b.js",
+      "static/chunks/c4b7291a525f9058b781efc7878339a66259dbe8.c02db7565d83bff039f6.js",
+      "static/chunks/84afd3ba861b78d1ee8fdd5020b73ae8180797d2.511600a985e10b6e9e06.js",
+      "static/chunks/22.84a9687c06e8191a4d1e.js"
+    ]
+  }
+}

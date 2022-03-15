@@ -1,0 +1,1 @@
+(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[22],{yRSK:function(n,r,t){"use strict";t.r(r),t.d(r,"default",(function(){return a}));t("KrYW");var e=t("tYv2"),c=t("r7Qn"),i=t("mEN6");function a(n){var r=n.children,t=n.frontMatter;return Object(i.jsx)(i.Fragment,{children:Object(i.jsx)(e.b,{children:Object(i.jsx)(c.a,{frontMatter:t,sidebar:!0,children:r})})})}}}]);
